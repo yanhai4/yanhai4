@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Haiyan Yang
 
 🎓 MSc Computer Vision student @ **University College London (UCL)** (still studying) 
