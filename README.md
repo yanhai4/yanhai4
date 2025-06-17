@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**yanhai4/yanhai4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Haiyan Yang
 
-Here are some ideas to get you started:
+🎓 MSc Computer Vision student @ **University College London (UCL)** (still studying) 
+🎓 BEng in Software Engineering @ **Tongji University**  
+🌍 Fluent in English & Mandarin  
+💡 Passionate about deep learning, computer vision, and intelligent systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Technologies
+
+- **Languages**: Python, C#, C, C++, JavaScript  
+- **Frameworks**: PyTorch, TensorFlow, OpenCV
+- **CV Specialties**: Image Segmentation, Object Detection, GANs, VR, Super Resolution
